@@ -1,0 +1,47 @@
+#container {
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  padding-top: 20px; }
+
+.photo img {
+  max-width: 100%; }
+
+@media screen and (max-width: 568px) {
+  #container {
+    background-color: #A7C763;
+    justify-content: center;
+    flex-wrap: wrap; }
+
+  .photo {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center; }
+
+  /*.photo img, figcaption {
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  }*/ }
+@media screen and (min-width: 569px) and (max-width: 667px) {
+  #container {
+    background-color: #6B949F;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap; }
+
+  .photo {
+    width: 45%; } }
+@media screen and (min-width: 668px) {
+  #container {
+    background-color: #D4886A;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap; }
+
+  .photo {
+    width: 23%; } }
+
+/*# sourceMappingURL=photoTanja.css.map */
