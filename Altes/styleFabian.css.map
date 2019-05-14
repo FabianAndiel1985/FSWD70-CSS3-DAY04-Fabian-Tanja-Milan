@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAKC,gBAAS;EACR,WAAW,EALE,qBAAqB;EAMlC,eAAe,EAAE,IAAI;AAGtB,gBAAS;EACR,KAAK,EAXU,MAAM;EAYrB,eAAe,EAAE,IAAI;;AAMvB,gCAAiB;EAChB,SAAS,EAAE,GAAG;EACd,KAAK,EAAC,KAAK;;AAGZ,eAAgB;EAGf,MAAM,EAAC,eAAe",
-"sources": ["styleFabian.scss"],
-"names": [],
-"file": "styleFabian.css"
-}
