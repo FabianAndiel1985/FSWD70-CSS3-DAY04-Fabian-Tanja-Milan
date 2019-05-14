@@ -1,3 +1,20 @@
+/*Tanja Section*/
+
+.link1 ul {
+  display: flex;
+  flex-wrap: wrap; }
+.link1 li {
+  flex-direction: row;
+  width: 30%;
+  height: 50px;
+  border: 0.5px grey;
+  list-style: none; }
+.link1 a {
+  text-decoration: none;
+  color: black; }
+
+/*Fabian Section*/
+
 #Fabian #Fabian1 {
   font-family: "Baloo Bhai", cursive;
   text-decoration: none; }
