@@ -1,0 +1,14 @@
+.link1 ul {
+  display: flex;
+  flex-wrap: wrap; }
+.link1 li {
+  flex-direction: row;
+  width: 30%;
+  height: 50px;
+  border: 0.5px grey;
+  list-style: none; }
+.link1 a {
+  text-decoration: none;
+  color: black; }
+
+/*# sourceMappingURL=Tanja.css.map */
