@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,QAAQ;EACP,UAAU,EAAE,MAAM;EAClB,SAAS,EAAE,IAAI;EACf,qBAAqB,EAAE,KAAK;EAC5B,KAAK,EAAE,IAAI;EACX,eAAe,EAAE,IAAI",
+"sources": ["styleMilan.sass"],
+"names": [],
+"file": "styleMilan.css"
+}
